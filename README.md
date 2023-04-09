@@ -8,8 +8,7 @@
 
 ## 开始使用
 
-1.
-点击右侧按钮开始部署： [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mobaijun/google-proxy&project-name=google-proxy&repository-name=google-proxy)
+1. 点击右侧按钮开始部署： [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mobaijun/google-proxy&project-name=google-proxy&repository-name=google-proxy)
 ，直接使用 Github 账号登录即可；
 2. 部署完毕后，即可开始使用；
 3. （可选）[绑定自定义域名](https://vercel.com/docs/concepts/projects/domains/add-a-domain)：Vercel 分配的域名 DNS
