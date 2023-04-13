@@ -1,5 +1,7 @@
 # Google Proxy
 
+源项目地址：[传送门](https://github.com/gaowanlu/google)
+
 ## 主要功能
 
 - 在 1 分钟内使用 Vercel **免费一键部署**
